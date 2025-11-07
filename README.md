@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yasmine Zouari</h1>
+<h3 align="center">Final-year engineering student at ENIS | AI & DevOps Enthusiast</h3>
 
-<!--
-**YessmineZouari/YessmineZouari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,python,js,java,c,cpp,qt,symfony,mysql,bootstrap,html,css,git,vscode,nodejs,ts,spring,angular,powerbi,tableau,sql,mongodb" />
+</p>
+
+---
+
+## 🌱 I'm currently learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,electron,react,scala,spark" />
+</p>
+
+---
+
+## 📫 How to reach me
+
+- **Email:** yessmine.zouari@enis.tn  
+- **Phone:** +216 21 165 145
+
+---
+
+## 🙋‍♀️ About Me
+- 🎓 Final-year engineering student at **ENIS (École Nationale d’Ingénieurs de Sfax)**  
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **DevOps**  
+- 🖥️ Interested in **Web & Mobile development**, **Cloud**, and **Automation**  
+- 🌍 Always learning & building new things!
+
+---
+
+
+
+---
+
