@@ -22,11 +22,7 @@
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bootstrap,react,html,css,nodejs,spring,angular,mongodb,mysql,git,vscode,docker,kubernetes,jenkins,grafana,prometheus" />
 
-  <!-- Extra AI/ML icons not available on skillicons.dev -->
-  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" />
-  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openaigym.svg" alt="LLMs" />
-  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="LangChain" />
-  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="LangGraph" />
+
 
 </p>
 
