@@ -11,8 +11,7 @@
 
 ## 🙋‍♀️ About Me
 - 🎓 Final-year engineering student at **ENIS (École Nationale d’Ingénieurs de Sfax)**  
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **DevOps**  
-- 🖥️ Interested in **Web & Mobile development**, **Cloud**, and **Automation**  
+- 🤖 Passionate about **Artificial Intelligence**, **ML/DL**, **LLMs** and **DevOps**  
 - 🌍 Always learning & building new things!
 
 ---
