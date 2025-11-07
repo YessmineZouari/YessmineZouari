@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmine Zouari</h1>
 <h3 align="center">Final-year engineering student at ENIS | AI & DevOps Enthusiast</h3>
----
+
 
 ## 📫 How to reach me
 
@@ -16,21 +16,23 @@
 - 🌍 Always learning & building new things!
 
 ---
----
-
-## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,java,c,cpp,qt,symfony,mysql,bootstrap,html,css,git,vscode,nodejs,ts,spring,angular,powerbi,tableau,sql,mongodb" />
+
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bootstrap,react,html,css,nodejs,spring,angular,mongodb,mysql,git,vscode,docker,kubernetes,jenkins,grafana,prometheus" />
+
+  <!-- Extra AI/ML icons not available on skillicons.dev -->
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" alt="TensorFlow" />
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openaigym.svg" alt="LLMs" />
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="LangChain" />
+  <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="LangGraph" />
+
 </p>
 
 ---
 
-## 🌱 I'm currently learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,electron,react,scala,spark" />
-</p>
 
 
 
