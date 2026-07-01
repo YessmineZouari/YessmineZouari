@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine Zouari</h1>
-<h3 align="center">Final-year engineering student at ENIS | AI & DevOps Enthusiast</h3>
+<h3 align="center">Computer Science Engineer | AI & DevOps Enthusiast</h3>
 
 
 ## 📫 How to reach me
